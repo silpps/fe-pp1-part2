@@ -1,0 +1,63 @@
+h3 {
+  text-align: center;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App-logo {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+
+.creditCardType {
+  float: right;
+  margin: 10px;
+  width: 50px;
+}
+
+.creditCard{
+  width: 350px;
+  height: 160px;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 20px;
+  }
+
+.creditCardNumber{
+  font-size: 2em;
+  text-align: left;
+  margin-right: 0px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  width: 100%;
+  letter-spacing: 3px;
+  align-self: center;
+} 
+
+.creditCardExpiration{
+  margin: 0px;
+}
+
+.boxColorTask{
+  width: 400px;
+  height: 100px;
+  display: inline-block;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: black 1px solid;
+}
+
+.boxColorText{
+  margin-bottom: 0px;
+}
+
+.boxColorHexa{
+  margin-top: 2px;
+}
